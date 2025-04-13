@@ -1,5 +1,9 @@
 [![Jacob Rief profile views](https://u8views.com/api/v1/github/profiles/1132472/views/day-week-month-total-count.svg)](https://u8views.com/github/jrief)
 
+I will [give a talk](https://pretalx.evolutio.pt/djangocon-europe-2025/talk/ETFCCS/) at
+[![Django Con Europe 2025](https://pretalx.evolutio.pt/media/djangocon-europe-2025/img/Screenshot_2024-10-26_163604_Ileelds.png)](https://pretalx.evolutio.pt/djangocon-europe-2025/talk/ETFCCS/)
+on 2025-04-23.
+
 <!--
 **jrief/jrief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
